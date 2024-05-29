@@ -1,4 +1,4 @@
-# Cisco-Ethical-Hacker
+# Cisco Network Academy - Ethical-Hacker
 
 ![ethical-hacker](https://github.com/MohebAwichewi/Cisco-Ethical-Hacker/assets/149394585/fce78c43-90cf-492e-9e47-8b0193d540a3)
 # Information Gathering
